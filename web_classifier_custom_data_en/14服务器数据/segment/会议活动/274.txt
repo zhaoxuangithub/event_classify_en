@@ -1,0 +1,1 @@
+[ 107]Steven Murdoch and George Danezis from University of Cambridge presented an article at the 2005 IEEE Symposium on security and privacy on traffic - analysis techniques that allow adversaries with only a partial view of the network to infer which nodes are being used to relay the anonymous streams .

@@ -1,0 +1,1 @@
+This is usually not a problem for stock trading since stocks have weak time-series autocorrelation in daily and weekly holding periods , but autocorrelation is stronger over long horizons .

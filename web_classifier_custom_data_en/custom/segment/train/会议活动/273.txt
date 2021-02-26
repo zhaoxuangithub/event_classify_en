@@ -1,0 +1,1 @@
+[ 27 ] On 13 August 2004 , Syverson , Dingledine , and Mathewson presented " Tor : The Second-Generation Onion Router " at the 13th USENIX Security Symposium .

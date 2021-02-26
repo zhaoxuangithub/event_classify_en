@@ -1,0 +1,1 @@
+Quantitative trading includes all trading which use quantitative techniques; most quantitative trading involves using techniques to value market assets like derivatives but the trading decision may be systematic or discretionary.Suppose we need to replicate an index with futures and stocks from other markets with higher liquidity level.

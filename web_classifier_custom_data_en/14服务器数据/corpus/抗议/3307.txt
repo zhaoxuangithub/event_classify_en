@@ -1,0 +1,1 @@
+The field focuses on modeling phenomena in cognitive science that have resisted traditional techniques or where traditional models seem to have reached a barrier (e.g., human memory[9]), and modeling preferences in decision theory that seem paradoxical from a traditional rational point of view (e.g., preference reversals[10]).

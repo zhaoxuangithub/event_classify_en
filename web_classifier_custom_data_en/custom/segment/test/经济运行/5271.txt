@@ -1,0 +1,1 @@
+As above , this payoff is then discounted , and the result is used in the valuation of the option today . It is possible to create a position consisting of Δ shares and 1 call sold , such that the position 's value will be identical in the S up and S down states , and hence known with certainty ( see Delta hedging ) .

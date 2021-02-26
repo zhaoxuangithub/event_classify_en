@@ -1,0 +1,1 @@
+This is because the trader can sell stock needed to hedge the long call at a higher price.Armed with a forecast of volatility, and capable of measuring an option's market price in terms of implied volatility, the trader is ready to begin a volatility arbitrage trade.

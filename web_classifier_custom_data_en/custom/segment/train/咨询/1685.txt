@@ -1,0 +1,1 @@
+Some of these methods are discussed by Atkinson , Donev and Tobias and in the paper by Hardin and Sloane .

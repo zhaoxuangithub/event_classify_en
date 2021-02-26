@@ -1,0 +1,1 @@
+Even portfolio based volatility arbitrage approaches which seek to "diversify" volatility risk can experience "black swan" events when changes in implied volatility are correlated across multiple securities and even markets.

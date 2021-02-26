@@ -1,0 +1,1 @@
+All stocks are equally weighted.

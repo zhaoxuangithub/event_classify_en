@@ -1,0 +1,1 @@
+glove.6B.50d -- glove.6B.300d save here folder
